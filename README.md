@@ -1,4 +1,5 @@
 # Final Project
+## Prediction of pollution in the center of Barcelona (Eixample) using Machine Learning in Python
 ***
 This repository belongs to the final project of the Data Science course at IT Academy (Barcelona Activa). The main objective of the project is to predict the future pollution in the city center of Barcelona if no environmental measures or policies are implemented. To achieve this, knowledge in data analysis and data science acquired during the course has been applied.
 
