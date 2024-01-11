@@ -37,10 +37,10 @@ In the initial stage of data analysis, the following libraries will be used:
 - Matplotlib
 - Seaborn.
 
-Techniques such as graphical visualizations and hypothesis testing will be employed. In the second phase, machine learning algorithms will be implemented:
+Techniques such as graphical visualizations and hypothesis testing will be employed. In the second phase, different data science techniques will be applied:
 
 - ML techniques such as data splitting (Train-Test), hyperparameter tuning (Grid Search CV), or comparisons (Cross-Validation).
 - Different machine learning models (Linear Regression, K-Neighbors Regressor, Random Forest Regressor, among others).
 - Analysis metrics to assess model effectiveness: R2 and MSE.
   
-In the final phase, code will be developed using the Streamlit library to create a web page with the chosen model for prediction.
+In the final phase, code will be developed using the Streamlit library to construct a web page showcasing the chosen prediction model.
