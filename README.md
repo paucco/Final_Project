@@ -30,7 +30,7 @@ The project is based on a dataset obtained from the Generalitat de Catalunya, sp
 ***
 In this project, the acquired knowledge from the course will be autonomously applied, focusing on two fundamental phases: data analysis and data science (application of machine learning algorithms).
 
-In the initial stage of data analysis, the following libraries will be utilized: 
+In the initial stage of data analysis, the following libraries will be used: 
 
 - NumPy
 - Pandas
