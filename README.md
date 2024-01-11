@@ -20,7 +20,7 @@ Predict, through machine learning, the concentration of pollutants that would oc
 - Conduct an exploratory data analysis to understand the evolution of pollutant concentrations in Barcelona.
 - Implement machine learning algorithms to model the relationship between variables and forecast future pollutant concentrations, evaluating the effectiveness of the models with relevant metrics.
 - Develop predictive models with Python to support informed decision-making on environmental issues.
-- Create an interface using the Streamlit library to provide users with a user-friendly experience for utilizing the selected pollution prediction model.
+- Create an interface using the Streamlit library to provide users with a user-friendly experience for using the selected pollution prediction model.
 
 ## Dataset
 ***
