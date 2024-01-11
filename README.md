@@ -43,4 +43,4 @@ Techniques such as graphical visualizations and hypothesis testing will be emplo
 - Different machine learning models (Linear Regression, K-Neighbors Regressor, Random Forest Regressor, among others).
 - Analysis metrics to assess model effectiveness: R2 and MSE.
   
-In the final phase, code will be developed using the Streamlit library to construct a web page showcasing the chosen prediction model.
+In the final phase, code will be developed using the Streamlit library to construct a web page showing the chosen prediction model.
