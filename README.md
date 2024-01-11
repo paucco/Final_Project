@@ -26,9 +26,9 @@ Predict, through machine learning, the concentration of pollutants that would oc
 ***
 The project is based on a dataset obtained from the Generalitat de Catalunya, specifically from the Dades Obertes (Open Data) department. This dataset covers records of various air pollutants in the city of Barcelona, more specifically from the monitoring station in l'Eixample, during the period from 2018 to 2023. The data was extracted from the website (20/12/2023): https://analisi.transparenciacatalunya.cat/en/Medi-Ambient/Qualitat-de-l-aire-als-punts-de-mesurament-manuals/qg74-87s9/about_data
 
-## methodology
+## Methodology
 ***
-In this project, the acquired knowledge from the course will be autonomously applied, focusing on two fundamental phases: data analysis and the application of machine learning algorithms.
+In this project, the acquired knowledge from the course will be autonomously applied, focusing on two fundamental phases: data analysis and data science (application of machine learning algorithms).
 
 In the initial stage of data analysis, the following libraries will be utilized: 
 
